@@ -5,7 +5,7 @@ import seaborn as sns
 
 # Carregar os dados do Excel
 # Substitua 'sua_base.xlsx' pelo caminho do arquivo Excel
-data = pd.read_excel(r'c:\Users\gabriel.rijo\Downloads\base_pax.xlsx')
+data = pd.read_excel(r'c:\Users\gabriel.rijo\Downloads\base_pax_2.xlsx')
 
 # Configurações para visualizações
 sns.set(style="whitegrid")
